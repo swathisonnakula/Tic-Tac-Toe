@@ -1,0 +1,29 @@
+.title {
+  background-color: #212738;
+}
+.input-box {
+  width: 150px;
+  height: 150px;
+  font-size: 90px;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 5px;
+  padding-bottom: 8px;
+  color: #d1d646;
+  background-color: #212738;
+}
+body {
+  background-color: #edf2ff;
+  color: #d1d646;
+}
+
+.turn-title {
+  background-color: #d1d646;
+  color: #212738;
+}
+.restart {
+  background-color: #d1d646;
+  color: #212738;
+  border: 0;
+  font-size: 1.5rem;
+}
